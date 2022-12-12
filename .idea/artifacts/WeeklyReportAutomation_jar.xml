@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WeeklyReportAutomation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeeklyReportAutomation_jar</output-path>
+    <root id="archive" name="WeeklyReportAutomation.jar">
+      <element id="module-output" name="WeeklyReportAutomation" />
+    </root>
+  </artifact>
+</component>
